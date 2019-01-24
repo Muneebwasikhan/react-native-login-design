@@ -16,7 +16,7 @@ export default class App extends Component {
     return (
       <View>
         <Header headerText="Home" />
-        <AlbumList ></AlbumList>
+        <AlbumList />
         {/* <LoginPage /> */}
       </View>
     );
